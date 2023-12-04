@@ -23,11 +23,6 @@ const reducer = (state = initialState, action) => {
                 english: [...state.english, { id: state.english.length + 1, content: action.english }],
                 vietnamese: [...state.vietnamese, {id: state.vietnamese.length + 1, content: action.vietnamese}]
             };
-        case "SET_VIETNAMESE":
-            return {
-                ...state,
-                vietnamese: action.vietnamese
-            };
         default:
             return state;
     }
