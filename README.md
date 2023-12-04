@@ -1,4 +1,3 @@
-# OnThiCuoiKy-ReactNative
 Huy đi ôn thi cuối kì ReactNative
 
 # ĐỀ 1
@@ -9,3 +8,4 @@ Huy đi ôn thi cuối kì ReactNative
 https://github.com/tranquanghuy-09/OnThiCuoiKy-ReactNative/assets/107989088/15b7e485-ff2c-47eb-8b6d-35431e598679
 
 ## ĐỀ 2
+<img width="869" alt="Ảnh màn hình 2023-12-04 lúc 21 10 14" src="https://github.com/tranquanghuy-09/OnThiCuoiKy-ReactNative/assets/107989088/8d5d2d79-e4e9-4456-91c3-35f986df6758">
